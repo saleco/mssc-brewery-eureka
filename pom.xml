@@ -11,7 +11,7 @@
 	<groupId>guru.sfg.brewery.eureka</groupId>
 	<artifactId>mssc-brewery-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>msscbreweryeureka</name>
+	<name>mssc-brewery-eureka</name>
 	<description>Brewery Eureka Server Discovery</description>
 
 	<properties>
